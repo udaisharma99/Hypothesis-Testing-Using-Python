@@ -1,9 +1,8 @@
 # Hypothesis-Testing-Using-Python
 
-A/B Testing: 
+Problem Statement:
 
-Light Theme vs. Dark Theme
-This document summarizes the findings of an A/B testing experiment comparing a Light Theme and a Dark Theme for a website. We investigated user behavior metrics to understand which theme might be more effective.
+We aimed to determine if a Light Theme or a Dark Theme would be more effective for a website by analyzing user behavior through A/B testing. Evaluating user interaction with the themes would help us understand which theme fosters higher engagement and potentially leads to a better user experience and improved website performance.
 
 Methodology:
 
