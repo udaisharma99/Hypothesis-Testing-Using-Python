@@ -8,13 +8,13 @@ Methodology:
 
 I focused on four key user behavior metrics that can indicate user engagement and website effectiveness:
 
-Click-Through Rate (CTR): Measures how often users click on elements (e.g., buttons, links) after viewing them. A higher CTR suggests users find the elements visually appealing and easy to interact with.
+- Click-Through Rate (CTR): Measures how often users click on elements (e.g., buttons, links) after viewing them. A higher CTR suggests users find the elements visually appealing and easy to interact with.
 
-Conversion Rate: Represents the percentage of visitors who complete a desired action (e.g., purchase, sign-up) after interacting with the website. This is a crucial metric for businesses that rely on online transactions.
+- Conversion Rate: Represents the percentage of visitors who complete a desired action (e.g., purchase, sign-up) after interacting with the website. This is a crucial metric for businesses that rely on online transactions.
 
-Bounce Rate: Indicates the percentage of visitors who leave the website after viewing only one page. A high bounce rate can suggest users are not finding the information they need or are not engaged by the website's design.
+- Bounce Rate: Indicates the percentage of visitors who leave the website after viewing only one page. A high bounce rate can suggest users are not finding the information they need or are not engaged by the website's design.
 
-Scroll Depth: Measures how far down a webpage a user scrolls. Higher scroll depth typically indicates users are interested in the content and are more likely to engage further.
+- Scroll Depth: Measures how far down a webpage a user scrolls. Higher scroll depth typically indicates users are interested in the content and are more likely to engage further.
 
 We employed a two-sample t-test, a statistical technique, to compare the means (average values) of these metrics for users who interacted with the Light Theme and those who interacted with the Dark Theme. This allowed us to determine if there were statistically significant differences in user behavior between the two themes.
 
