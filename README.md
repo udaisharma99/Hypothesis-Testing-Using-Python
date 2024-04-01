@@ -16,7 +16,7 @@ I focused on four key user behavior metrics that can indicate user engagement an
 
 - Scroll Depth: Measures how far down a webpage a user scrolls. Higher scroll depth typically indicates users are interested in the content and are more likely to engage further.
 
-We employed a two-sample t-test, a statistical technique, to compare the means (average values) of these metrics for users who interacted with the Light Theme and those who interacted with the Dark Theme. This allowed us to determine if there were statistically significant differences in user behavior between the two themes.
+I employed a two-sample t-test, a statistical technique, to compare the means (average values) of these metrics for users who interacted with the Light Theme and those who interacted with the Dark Theme. This allowed us to determine if there were statistically significant differences in user behavior between the two themes.
 
 Result:
 
