@@ -2,30 +2,27 @@
 
 Problem Statement:
 
-Many websites offer Light and Dark Theme options, but it's unclear which theme leads to better user engagement and website performance. To address this, we conducted A/B testing to compare user interaction with a Light Theme and a Dark Theme. By analyzing user behavior metrics, we aimed to identify a theme that fosters a more positive user experience and potentially improves conversion rates and other website goals.
+Many websites offer Light and Dark Theme options, but it's unclear which theme leads to better user engagement and website performance. To address this, I conducted A/B testing to compare user interaction with a Light Theme and a Dark Theme. By analyzing user behavior metrics, I aimed to identify a theme that fosters a more positive user experience and potentially improves conversion rates and other website goals.
 
 Methodology:
 
-We focused on four key user behavior metrics that can indicate user engagement and website effectiveness:
+I focused on four key user behavior metrics that can indicate user engagement and website effectiveness:
 
 Click-Through Rate (CTR): Measures how often users click on elements (e.g., buttons, links) after viewing them. A higher CTR suggests users find the elements visually appealing and easy to interact with.
 
 Conversion Rate: Represents the percentage of visitors who complete a desired action (e.g., purchase, sign-up) after interacting with the website. This is a crucial metric for businesses that rely on online transactions.
 
 Bounce Rate: Indicates the percentage of visitors who leave the website after viewing only one page. A high bounce rate can suggest users are not finding the information they need or are not engaged by the website's design.
+
 Scroll Depth: Measures how far down a webpage a user scrolls. Higher scroll depth typically indicates users are interested in the content and are more likely to engage further.
 
 We employed a two-sample t-test, a statistical technique, to compare the means (average values) of these metrics for users who interacted with the Light Theme and those who interacted with the Dark Theme. This allowed us to determine if there were statistically significant differences in user behavior between the two themes.
 
-Results:
+Result:
 
 ![hypothesis](https://github.com/udaisharma99/Hypothesis-Testing-Using-Python/assets/138836370/8d045095-c96e-4c4f-96e0-41efbb4b3825)
 
-Metric	Light Theme vs. Dark Theme	p-Value
-Click-Through Rate (CTR)	Dark Theme likely performs better	0.048 (Statistically Significant)
-Conversion Rate	No significant difference	0.635
-Bounce Rate	No significant difference	0.230
-Scroll Depth	No significant difference	0.450
+
 Conclusion:
 
 The analysis revealed the following insights:
