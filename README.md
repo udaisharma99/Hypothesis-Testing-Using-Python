@@ -10,9 +10,13 @@ Methodology:
 We conducted hypothesis testing on four key website performance metrics:
 
 Click-Through Rate (CTR): How often users click on an element after viewing it.
+
 Conversion Rate: The percentage of users who complete a desired action (e.g., purchase, sign-up).
+
 Bounce Rate: The percentage of visitors who leave after viewing only one page.
+
 Scroll Depth: How far down a webpage a user scrolls.
+
 We employed a two-sample t-test to compare the means of these metrics for users who interacted with the Light Theme and those who interacted with the Dark Theme.
 
 Results:
